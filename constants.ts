@@ -74,7 +74,7 @@ export const PROJECTS: Project[] = [
       'Established clear traceability from data input to final decision outcome'
     ],
     tools: ['Data Quality Validation', 'Analytics Logic', 'Decision Framework Design', 'Automation', 'AI-Assisted Decision Support'],
-    link: '#',
+    link: 'https://github.com/VishMagnetar/DataGuardian',
     github: 'https://github.com/VishMagnetar/DataGuardian',
     documentation: '#',
     aiDescription: 'AI-assisted decision rule refinement and validation logic verification.',
